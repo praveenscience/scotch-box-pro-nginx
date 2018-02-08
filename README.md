@@ -35,7 +35,7 @@ This is a paid version of the original Scotch Box. Go Pro Now! to get access to 
 
 ## Documentation
 
- * Check out the official docs at: [box.scotch.io][https://box.scotch.io]
+ * Check out the official docs at: [box.scotch.io](https://box.scotch.io)
  * [Read the getting started article](https://scotch.io/bar-talk/introducing-scotch-box-a-vagrant-lamp-stack-that-just-works)
  * [Read the 2.0 release article](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved)
  * [Read the 2.5 release article](https://scotch.io/bar-talk/announcing-scotch-box-2-5)
